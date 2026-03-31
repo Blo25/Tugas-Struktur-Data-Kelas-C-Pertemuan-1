@@ -1,1 +1,2 @@
-# Tugas-Struktur-Data-Kelas-C-Pertemuan-1
+# Sistem Sederhana Pengelolaan Nilai Mahasiswa Menggunakan Array
+
